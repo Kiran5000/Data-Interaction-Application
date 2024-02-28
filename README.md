@@ -18,17 +18,24 @@ Install the required dependencies listed in the requirements.txt file:
 
 ## Copy code
 pip install -r requirements.txt
+
 Set up your Google API key in a .env file:
 
 ## makefile
 Copy code
+
 GOOGLE_API_KEY = "your_api_key"
+
 Usage
+
 Run the application by executing the app.py file:
 
 arduino
+
 Copy code
+
 streamlit run app.py
+
 Input your query in natural language.
 
 ## Click the "Ask the question" button to submit.
