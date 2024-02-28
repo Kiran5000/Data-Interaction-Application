@@ -1,6 +1,7 @@
+#**Data Interaction Application**
 The Data Interaction Application is a tool designed to facilitate querying of SQLite databases using natural language input. It leverages Google's Generative AI technology to interpret user queries and generate corresponding SQL commands, enabling seamless data retrieval and manipulation.
 
-##Installation
+**#Installation#**
 To install the Data Interaction Application, follow these steps:
 
 Clone the repository to your local machine:
@@ -30,10 +31,10 @@ Copy code
 streamlit run app.py
 Input your query in natural language.
 
-Click the "Ask the question" button to submit.
+#**Click** the "Ask the question" button to submit.
 
 View the SQL command generated and the corresponding data retrieved from the database.
 
-Contact
+#**Contact**
 For any questions or inquiries about the Data Interaction Application, feel free to contact Nunavath Kiran Nayak at nunavathkirannayak2000@gmail.com.
 
