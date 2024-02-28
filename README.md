@@ -1,4 +1,4 @@
-#Data Interaction Application/
+#/Data Interaction Application****
 The Data Interaction Application is a tool designed to facilitate querying of SQLite databases using natural language input. It leverages Google's Generative AI technology to interpret user queries and generate corresponding SQL commands, enabling seamless data retrieval and manipulation.
 
 **#Installation#**
